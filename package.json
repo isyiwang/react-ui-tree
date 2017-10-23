@@ -1,6 +1,6 @@
 {
   "name": "react-ui-tree",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "React tree component",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pqx/react-ui-tree.git"
+    "url": "https://github.com/isyiwang/react-ui-tree.git"
   },
   "keywords": [
     "react",
@@ -26,9 +26,9 @@
   "author": "Wang Zuo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pqx/react-ui-tree/issues"
+    "url": "https://github.com/isyiwang/react-ui-tree/issues"
   },
-  "homepage": "https://github.com/pqx/react-ui-tree",
+  "homepage": "https://github.com/isyiwang/react-ui-tree",
   "peerDependencies": {
     "react": "^15.0.0",
     "react-dom": "^15.0.0"
