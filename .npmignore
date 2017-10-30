@@ -3,4 +3,3 @@ lib
 example
 yarn.lock
 webpack.config.js
-Makefile

@@ -9,7 +9,8 @@
     "deploy": "rm -rf .publish && npm run build && github-pages-deploy",
     "pretest": "npm run build",
     "prepublish": "npm test",
-    "test": "mocha"
+    "mocha": "mocha",
+    "test": "./test.sh"
   },
   "github-pages-deploy": {
     "src": "example"
